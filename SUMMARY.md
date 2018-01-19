@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [Iteration](iteration.md)
-  * [Binary-Gap](binary-gap.md)
+  * [Binary-Gap](Iteration/binary-gap.md)
 * [Arrays](Arrays/README.md)
-  * [OddOccurrencesInArray](oddoccurrencesinarray.md)
-* [test](test.md)
+  * [OddOccurrencesInArray](Arrays/oddoccurrencesinarray.md)
 
