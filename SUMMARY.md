@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Iteration](iteration.md)
   * [Binary-Gap](binary-gap.md)
-* Arrays
+* [Arrays](arrays.md)
   * [OddOccurrencesInArray](oddoccurrencesinarray.md)
 
