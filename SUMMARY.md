@@ -5,4 +5,5 @@
   * [Binary-Gap](Iteration/binary-gap.md)
 * [Arrays](Arrays/README.md)
   * [OddOccurrencesInArray](Arrays/oddoccurrencesinarray.md)
+  * [CyclicRotation](Arrays/cyclicrotation.md)
 
